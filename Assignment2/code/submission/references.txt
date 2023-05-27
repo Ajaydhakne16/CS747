@@ -1,0 +1,4 @@
+https://www.coin-or.org/PuLP/index.html
+https://numpy.org/devdocs/reference/
+Slides
+
